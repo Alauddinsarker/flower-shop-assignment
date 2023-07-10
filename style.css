@@ -79,10 +79,13 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+.section-2-left{
+    text-align: center;
+}
 /* Section-3 CSS */
 .section-3 {
   text-align: center;
-  padding: 150px 200px;
+  padding: 100px 200px;
 }
 .section-3-img {
   display: flex;
@@ -98,7 +101,7 @@ body {
 .section-4 {
   text-align: center;
   background-image: url("/images/Rectangle\ 9.png");
-  margin: 100px 200px;
+  margin: 0px 200px 100px 200px;
   padding: 100px 0;
   border-radius: 5px;
 }
