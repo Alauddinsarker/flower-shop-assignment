@@ -97,6 +97,21 @@ body {
   height: 350px;
 }
 
+/* Section Bonus CSS */
+.section-bonus {
+  display: flex;
+  padding: 100px 200px;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 100px;
+  background-color: #f1cad3;
+}
+.bonus-listitem {
+  margin-left: 20px;
+}
+.section-bonus li {
+  list-style-type: circle;
+}
 /* Section-4 CSS */
 .section-4 {
   text-align: center;
