@@ -79,8 +79,8 @@ body {
   align-items: center;
   justify-content: space-between;
 }
-.section-2-left{
-    text-align: center;
+.section-2-left {
+  text-align: center;
 }
 /* Section-3 CSS */
 .section-3 {
@@ -100,7 +100,7 @@ body {
 /* Section-4 CSS */
 .section-4 {
   text-align: center;
-  background-image: url("/images/Rectangle\ 9.png");
+  background-image: url("/images/rectangle9.png");
   margin: 0px 200px 100px 200px;
   padding: 100px 0;
   border-radius: 5px;
